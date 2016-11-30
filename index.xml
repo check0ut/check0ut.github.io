@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JSReference</title>
+    <link>http://jsreference.com/index.xml</link>
+    <description>Recent content on JSReference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Nov 2016 17:18:45 +0900</lastBuildDate>
+    <atom:link href="http://jsreference.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>intro</title>
+      <link>http://jsreference.com/post/intro/</link>
+      <pubDate>Wed, 30 Nov 2016 17:18:45 +0900</pubDate>
+      
+      <guid>http://jsreference.com/post/intro/</guid>
+      <description>
+
+&lt;h1 id=&#34;test-for-all&#34;&gt;Test For All!&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JS REFERENCE</title>
+      <link>http://jsreference.com/</link>
+      <pubDate>Sun, 20 Nov 2016 14:28:41 +0200</pubDate>
+      
+      <guid>http://jsreference.com/</guid>
+      <description>
+
+&lt;h1 id=&#34;jsreference&#34;&gt;JSReference&lt;/h1&gt;
+
+&lt;p&gt;This Hugo theme is supposed to be a starter theme to make it easy to adapt to &lt;a href=&#34;https://www.ampproject.org/&#34;&gt;Google&amp;rsquo;s AMP-Project&lt;/a&gt;. Included in the theme are &lt;a href=&#34;https://gohugo-amp.gohugohq.com/shortcodes/&#34;&gt;&lt;strong&gt;40+ shortcodes and partials&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://gohugo-amp.gohugohq.com/schema/&#34;&gt;automatic Structured Data&lt;/a&gt; making it a pleasure to embed AMP-Elements within your content files or your template.&lt;/p&gt;
+
+&lt;p&gt;Have a look at the &lt;a href=&#34;https://gohugo-amp.gohugohq.com&#34;&gt;documentation&lt;/a&gt; including the following starter-Guides:&lt;/p&gt;
+
+&lt;h3 id=&#34;1-installation-guide-https-gohugo-amp-gohugohq-com-install&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/install/&#34;&gt;1. Installation Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;2-configuration-guide-https-gohugo-amp-gohugohq-com-config&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/config/&#34;&gt;2. Configuration Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;3-styling-guide-https-gohugo-amp-gohugohq-com-styling&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/styling/&#34;&gt;3. Styling Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;4-structured-data-guide-https-gohugo-amp-gohugohq-com-schema&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/schema/&#34;&gt;4. Structured Data Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;5-shortcodes-amp-partials-guide-https-gohugo-amp-gohugohq-com-shortcodes&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/shortcodes/&#34;&gt;5. Shortcodes &amp;amp; Partials Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;last-but-not-least-the-kitchen-sink-with-all-available-amp-elements-https-gohugo-amp-gohugohq-com-kitchen-sink&#34;&gt;&lt;a href=&#34;https://gohugo-amp.gohugohq.com/kitchen-sink/&#34;&gt;&lt;strong&gt;Last but not least! The Kitchen-Sink with all available AMP-Elements&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Further this Project is on &lt;a href=&#34;https://github.com/wildhaber/gohugo-amp/&#34;&gt;Github&lt;/a&gt; where you are very welcome to support the project.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
