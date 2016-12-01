@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>JSReference</title>
-    <link>http://jsreference.com/index.xml</link>
-    <description>Recent content on JSReference</description>
+    <title>Articles-rsses on JSReference</title>
+    <link>http://jsreference.com/articles/index.xml</link>
+    <description>Recent content in Articles-rsses on JSReference</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Nov 2016 14:28:41 +0200</lastBuildDate>
-    <atom:link href="http://jsreference.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>JS REFERENCE</title>
-      <link>http://jsreference.com/</link>
-      <pubDate>Sun, 20 Nov 2016 14:28:41 +0200</pubDate>
-      
-      <guid>http://jsreference.com/</guid>
-      <description>
-
-&lt;h1 id=&#34;js-reference&#34;&gt;js-reference&lt;/h1&gt;
-</description>
-    </item>
+    <atom:link href="http://jsreference.com/articles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
